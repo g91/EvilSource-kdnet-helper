@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\obj\Debug\EvilSource kdnet helper.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\obj\Debug\EvilSource kdnet helper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Administrator\source\repos\EvilSource kdnet helper\EvilSource kdnet helper\obj\Debug\WindowsFormsApp1.pdb
